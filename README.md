@@ -1,6 +1,8 @@
 # Generative T2EG
 Software designed to convert MRI diffusion-weighted sequences into T2EG sequences
 
+[![DOI](https://zenodo.org/badge/952958759.svg)](https://doi.org/10.5281/zenodo.23241468)
+
 ### Prerequisites
 Python 3.8
 
